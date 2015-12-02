@@ -1,0 +1,2 @@
+Test.assert_equals(repeat_it("*",3), "***", 'Returned unexpected value')
+Test.assert_equals(repeat_it("Hello",11), "HelloHelloHelloHelloHelloHelloHelloHelloHelloHelloHello", 'Returned unexpected value')
